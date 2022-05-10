@@ -1,4 +1,7 @@
-# wfrms
+# Deprecated
+This repo is unfortunately no longer being maintained. Writing shell scripts in rust is not a good idea 
+
+## wfrms
 Suspend your computer and play an alarm on waking up!
 
 ![](https://i.imgur.com/x2QlKGg.png)
